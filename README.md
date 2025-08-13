@@ -21,37 +21,34 @@
 ## 大模型基础  
 
 - **大语言模型开发各阶段**  
-  [大语言模型开发各阶段](https://poe.com/s/ZA30ztgmME6mBOWmuZ)  
+  [大语言模型开发各阶段](https://poe.com/s/ZA30ztgmME6mBOWmuZtW)  
 
 - **模型微调和通用能力**  
-  [模型微调和通用能力](https://poe.com/s/sIIaJudZd7lC7ASLlH)  
+  [模型微调和通用能力](https://poe.com/s/sIIaJudZd7lC7ASLlHiY)  
 
 - **Tokenizer, BPE, WordPiece, SentencePiece**  
-  [Tokenizer, BPE, WordPiece, SentencePiece](https://poe.com/s/7drnge1LyjGweszUxR)  
+  [Tokenizer, BPE, WordPiece, SentencePiece](https://poe.com/s/7drnge1LyjGweszUxRiS)  
 
 - **Activation Functions**  
-  [Activation Functions](https://poe.com/s/0p4tRA32ybL4zA5y6g)  
+  [Activation Functions](https://poe.com/s/0p4tRA32ybL4zA5y6gqO)  
 
 - **Optimizers**  
-  [Optimizers](https://poe.com/s/FoXHLxqTiH5OCnQTTd)  
+  [Optimizers](https://poe.com/s/FoXHLxqTiH5OCnQTTd3i)  
 
 - **BERT, MLM, NSP**  
-  [BERT, MLM, NSP](https://poe.com/s/sjndlhFBOPU10smVGr)  
+  [BERT, MLM, NSP](https://poe.com/s/sjndlhFBOPU10smVGrKS)  
 
 - **损失函数和常见评估指标**  
-  [损失函数和常见评估指标](https://poe.com/s/bmEtuR0YvobUA1vxGj)  
+  [损失函数和常见评估指标](https://poe.com/s/bmEtuR0YvobUA1vxGjQK)  
 
 - **KL Divergence**  
-  [KL Divergence](https://poe.com/s/RTYZWZpNYY0Efe8ueP)  
+  [KL Divergence](https://poe.com/s/RTYZWZpNYY0Efe8ueP7H)  
 
 - **增量预训练（Continual Pretraining）**  
-  [增量预训练](https://poe.com/s/lMtcu6SA95doDq1qSb)  
+  [增量预训练](https://poe.com/s/lMtcu6SA95doDq1qSbJa)  
 
 - **不同阶段损失函数**  
-  [不同阶段损失函数](https://poe.com/s/brzTnZIwa0szT5vwGe)  
-
-- **AI 领域常见公式**  
-  [AI 领域常见公式](https://poe.com/s/btAIolBXgHJoDivOSh)  
+  [不同阶段损失函数](https://poe.com/s/brzTnZIwa0szT5vwGef5)  
 
 ---
 
@@ -117,16 +114,16 @@
 ## 大模型 Agent  
 
 - **Function Call & MCP**  
-  [Function Call & MCP](https://poe.com/s/AKbb4hRLDj1gJbaxVZ)  
+  [Function Call & MCP](https://poe.com/s/AKbb4hRLDj1gJbaxVZKy)  
 
 - **上下文工程**  
-  [上下文工程](https://poe.com/s/GBVBqvF4L1fS1HwTJe)  
+  [上下文工程](https://poe.com/s/GBVBqvF4L1fS1HwTJe3s)  
 
 - **Tool Use**  
-  [Tool Use](https://poe.com/s/pXHoxdvyhUgXrvbXCP)  
+  [Tool Use](https://poe.com/s/pXHoxdvyhUgXrvbXCPrw)  
 
 - **ReAct 论文**  
-  [ReAct 论文](https://poe.com/s/m2FxxLOAURZo0Og2)
+  [ReAct 论文](https://poe.com/s/m2FxxLOAURZo0Og2EWjO)
 
 ---
 
