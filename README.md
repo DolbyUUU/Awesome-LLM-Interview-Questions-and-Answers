@@ -42,7 +42,7 @@
   [BERT, MLM, NSP](https://poe.com/s/sjndlhFBOPU10smVGrKS)  
 
 - **损失函数和常见评估指标**  
-  [损失函数和常见评估指标](https://poe.com/s/bmEtuR0YvobUA1vxGjQK)
+  [损失函数和常见评估指标](https://poe.com/s/bmEtuR0YvobUA1vxGjQK)  
   [指令微调损失函数](https://poe.com/s/ZVbA8tAuN4DJBOmxkYhS)
 
 - **KL Divergence**  
