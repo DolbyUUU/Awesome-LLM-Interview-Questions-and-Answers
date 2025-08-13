@@ -50,9 +50,10 @@
 - **增量预训练（Continual Pretraining）**  
   [增量预训练](https://poe.com/s/lMtcu6SA95doDq1qSbJa)  
 
-- **不同阶段损失函数**  
-  [不同阶段损失函数](https://poe.com/s/brzTnZIwa0szT5vwGef5)  
-
+- **损失函数**  
+  [指令微调损失函数](https://poe.com/s/ZVbA8tAuN4DJBOmxkYhS)
+  [GRPO 损失函数](https://poe.com/s/kJgJZCcfHdiIkJqwa91j)
+  [多轮对话损失函数](https://poe.com/s/brzTnZIwa0szT5vwGef5)  
 ---
 
 ## Transformer 和 Attention  
