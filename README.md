@@ -50,10 +50,9 @@
 - **增量预训练（Continual Pretraining）**  
   [增量预训练](https://poe.com/s/lMtcu6SA95doDq1qSbJa)  
 
-- **损失函数**  
+- **损失函数**
   [指令微调损失函数](https://poe.com/s/ZVbA8tAuN4DJBOmxkYhS)
   [GRPO 损失函数](https://poe.com/s/kJgJZCcfHdiIkJqwa91j)
-  [多轮对话损失函数](https://poe.com/s/brzTnZIwa0szT5vwGef5)
 
 ---
 
@@ -130,7 +129,7 @@
 - **ReAct 论文**  
   [ReAct 论文](https://poe.com/s/m2FxxLOAURZo0Og2EWjO)
 
-- **损失屏蔽**
+- **损失屏蔽**  
   [Retrieved Tokens Loss Masking](https://poe.com/s/tu69rFXupEE0VDM7Ht8i)
 
 ---
