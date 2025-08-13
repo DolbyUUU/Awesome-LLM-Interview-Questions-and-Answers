@@ -53,7 +53,8 @@
 - **损失函数**  
   [指令微调损失函数](https://poe.com/s/ZVbA8tAuN4DJBOmxkYhS)
   [GRPO 损失函数](https://poe.com/s/kJgJZCcfHdiIkJqwa91j)
-  [多轮对话损失函数](https://poe.com/s/brzTnZIwa0szT5vwGef5)  
+  [多轮对话损失函数](https://poe.com/s/brzTnZIwa0szT5vwGef5)
+
 ---
 
 ## Transformer 和 Attention  
@@ -102,7 +103,7 @@
   [Retrieval Augmented Generation (RAG)](https://poe.com/s/816ADff2YCnNCvUjIQkL)  
 
 - **分块与嵌入**  
-  [分块与嵌入 (Chunking & Embedding)](https://poe.com/s/GBuhrZmviq2pJCta9XqO)  
+  [分块与嵌入](https://poe.com/s/GBuhrZmviq2pJCta9XqO)  
 
 - **检索策略**  
   [检索策略](https://poe.com/s/1QeLyLAxLW6oIs0TU5dk)  
@@ -131,7 +132,7 @@
 
 - **损失屏蔽**
   [Retrieved Tokens Loss Masking](https://poe.com/s/tu69rFXupEE0VDM7Ht8i)
-  
+
 ---
 
 ## 训练优化  
