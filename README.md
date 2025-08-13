@@ -144,7 +144,7 @@
   [数据并行，模型并行，混合并行](https://poe.com/s/FnuDFqEu64UIREnGjbi7)  
 
 - **LoRA**  
-  [LoRA 1](https://poe.com/s/mFE7z9iy4ooqIzjze1I0)
+  [LoRA](https://poe.com/s/mFE7z9iy4ooqIzjze1I0)
 
 - **其他参数高效微调（PEFT）**  
   [参数高效微调（PEFT）](https://poe.com/s/mH04bKuclL19QQ321flF)  
