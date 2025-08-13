@@ -42,17 +42,14 @@
   [BERT, MLM, NSP](https://poe.com/s/sjndlhFBOPU10smVGrKS)  
 
 - **损失函数和常见评估指标**  
-  [损失函数和常见评估指标](https://poe.com/s/bmEtuR0YvobUA1vxGjQK)  
+  [损失函数和常见评估指标](https://poe.com/s/bmEtuR0YvobUA1vxGjQK)
+  [指令微调损失函数](https://poe.com/s/ZVbA8tAuN4DJBOmxkYhS)
 
 - **KL Divergence**  
   [KL Divergence](https://poe.com/s/RTYZWZpNYY0Efe8ueP7H)  
 
 - **增量预训练（Continual Pretraining）**  
   [增量预训练](https://poe.com/s/lMtcu6SA95doDq1qSbJa)  
-
-- **损失函数**  
-  [指令微调损失函数](https://poe.com/s/ZVbA8tAuN4DJBOmxkYhS)
-  [GRPO 损失函数](https://poe.com/s/kJgJZCcfHdiIkJqwa91j)
 
 ---
 
@@ -91,6 +88,9 @@
   [REINFORCE, REINFORCE++ 2](https://poe.com/s/C7PNV8Fogp98HmWNVwxr)  
   [REINFORCE, REINFORCE++ 3](https://poe.com/s/ft55xkEuR2wlKPZ69XsD)  
 
+- **GRPO 损失函数**  
+  [GRPO 损失函数](https://poe.com/s/kJgJZCcfHdiIkJqwa91j)
+  
 - **RL 显存占用**  
   [RL 显存占用](https://poe.com/s/o4vyh9DyFJXk0npqWkaD)  
 
