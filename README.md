@@ -60,7 +60,7 @@
 ## Transformer 和 Attention  
 
 - **Transformer**  
-  [Transformer 1](https://poe.com/s/ieIDlCnOqtM2WfrIUzzC)  
+  [Transformer 1](https://poe.com/s/ieIDlCnOqtM2WfrIUzzC)
   [Transformer 2](https://poe.com/s/uGVXOWAgtExTPiHcRqTQ)  
 
 - **Attention**  
@@ -92,8 +92,8 @@
   [REINFORCE, REINFORCE++ 2](https://poe.com/s/C7PNV8Fogp98HmWNVwxr)  
   [REINFORCE, REINFORCE++ 3](https://poe.com/s/ft55xkEuR2wlKPZ69XsD)  
 
-- **显存占用**  
-  [强化学习的显存占用](https://poe.com/s/o4vyh9DyFJXk0npqWkaD)  
+- **RL 显存占用**  
+  [RL 显存占用](https://poe.com/s/o4vyh9DyFJXk0npqWkaD)  
 
 ---
 
