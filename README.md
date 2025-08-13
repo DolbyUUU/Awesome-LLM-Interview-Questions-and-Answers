@@ -1,7 +1,10 @@
-# Awesome-LLM-Interview-Questions-and-Answers  
-**大模型算法工程师、大模型 Agent 开发工程师面试常见题目和答案**  
+# Awesome-LLM-Interview-Questions-and-Answers
 
-本项目提供了一系列与大模型相关的知识点、面试问题及答案，答案由 **Poe 平台上的 Gemini-2.5-Pro 或 GPT-4o** 生成（访问 Poe 分享链接可能需要翻墙）。部分答案参考自知乎。
+**大模型算法工程师、大模型 Agent 开发工程师面试常见题目和答案**
+
+本项目旨在系统性地整理大语言模型（LLM）相关的核心知识点，并提供一系列常见的面试问题及参考答案。内容涵盖大模型算法工程师、大模型 Agent 开发工程师等热门岗位。
+
+所有答案主要由 **Poe 平台上的 Gemini-2.5-Pro 或 GPT-4o** 生成，部分答案参考了知乎社区的优质内容。
 
 ## 目录  
 1. [大模型基础](#大模型基础)  
@@ -83,9 +86,9 @@
   [PPO, DPO, GRPO 2](https://poe.com/s/SXvfbci4kqrR3cdKs6BM)  
 
 - **REINFORCE, REINFORCE++**  
-  [REINFORCE, REINFORCE++* 1](https://poe.com/s/fPYaaITcyYSWdKS3uj65)  
-  [REINFORCE, REINFORCE++* 2](https://poe.com/s/C7PNV8Fogp98HmWNVwxr)  
-  [REINFORCE, REINFORCE++* 3](https://poe.com/s/ft55xkEuR2wlKPZ69XsD)  
+  [REINFORCE, REINFORCE++ 1](https://poe.com/s/fPYaaITcyYSWdKS3uj65)  
+  [REINFORCE, REINFORCE++ 2](https://poe.com/s/C7PNV8Fogp98HmWNVwxr)  
+  [REINFORCE, REINFORCE++ 3](https://poe.com/s/ft55xkEuR2wlKPZ69XsD)  
 
 - **显存占用**  
   [强化学习的显存占用](https://poe.com/s/o4vyh9DyFJXk0npqWkaD)  
@@ -125,6 +128,9 @@
 - **ReAct 论文**  
   [ReAct 论文](https://poe.com/s/m2FxxLOAURZo0Og2EWjO)
 
+- **损失屏蔽**
+  [Retrieved Tokens Loss Masking](https://poe.com/s/tu69rFXupEE0VDM7Ht8i)
+  
 ---
 
 ## 训练优化  
@@ -216,3 +222,18 @@
 
 ## 项目经验  
 
+#### 数据集和模型训练
+- **数据获取**：训练数据集是如何获取的？
+- **SFT 数据格式**：在特定的训练框架下，SFT（Supervised Fine-Tuning）数据集需要遵循什么样的格式？
+- **强化学习数据格式**：在特定的训练框架下，强化学习（如 RLHF）的数据集需要遵循什么样的格式？
+- **过拟合**：在项目中遇到过哪些过拟合现象？具体是如何分析和解决的？
+- **泛化性**：采用了哪些方法来增强模型的泛化能力？
+- **损失函数**：是否尝试过修改或自定义损失函数？为什么？效果如何？
+- **奖励函数设计**：在强化学习任务中，你是如何设计奖励函数（Reward Function）的？
+
+#### 评测与落地
+- **评测体系**：如何构建测试数据集和设计评测指标？
+- **效果评估**：如何对项目的整体效果进行综合评测？
+- **落地挑战**：你认为大模型在实际业务中难以落地的主要原因有哪些？对应的解决方法是什么？
+- **落地经验**：分享一次你成功或失败的落地经验。
+- **最大难题**：在整个项目中，你遇到的最大难题是什么？你是如何一步步分析并最终解决的？
