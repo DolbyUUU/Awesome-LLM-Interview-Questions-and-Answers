@@ -172,7 +172,7 @@
   [Mixture of Experts (MoE)](https://poe.com/s/tZ9nheeSPCZnfRtS4J7p)  
 
 - **参数共享**  
-  [参数共享](https://poe.com/s/zugK9xgmA2Yw7njHGgVJ)  
+  [参数共享](https://poe.com/s/hBQOQu2XMj8YgYsfsi0H)  
 
 ---
 
