@@ -38,6 +38,9 @@
 - **Optimizers**  
   [Optimizers](https://poe.com/s/FoXHLxqTiH5OCnQTTd3i)  
 
+- **反向传播**  
+  [反向传播](https://poe.com/s/pIBf7KvUiRVL2oDviRJq)
+
 - **BERT, MLM, NSP**  
   [BERT, MLM, NSP](https://poe.com/s/sjndlhFBOPU10smVGrKS)  
 
